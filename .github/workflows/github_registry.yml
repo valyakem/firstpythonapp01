@@ -1,4 +1,4 @@
-name: CI firstpythonapp
+name: CI firstpythonapp01
 
 on:
   push:
